@@ -1,2 +1,2 @@
 # BashTools
-A library of all the bash tools I used
+A library of all the bash tools I made
