@@ -3,9 +3,11 @@
 cd AutomaticGitCloner
 rm -rf README.md
 mv * ..
+cd ..
 cd ssh-mgr
 rm -rf README.md
 mv * ..
+cd ..
 cd GitHubWebSync
 rm -rf README.md
 mv * ..
