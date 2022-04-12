@@ -25,8 +25,8 @@ if [ $1 = upgrade ]; then
     rm -rf agc.sh
     git clone https://github.com/Hardwaregore/AutomaticGitCloner
     cd AutomaticGitCloner
-    chmod 777 agc.sh
-    mv agc.sh ~ 
+    chmod 777 agc
+    mv agc /bin
     cd
     rm -rf AutomaticGitCloner
     clear
