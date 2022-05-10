@@ -1,0 +1,12 @@
+[submodule "Manager"]
+	path = manager
+	url = https://github.com/Hardwaregore/manager.git
+[submodule "AutomaticGitCloner"]
+	path = AutomaticGitCloner
+	url = https://github.com/Hardwaregore/AutomaticGitCloner.git
+[submodule "GitHubWebsync"]
+	path = GitHubWebSync
+	url = https://github.com/Hardwaregore/GitHubWebSync.git
+[submodule "BASHTE"]
+  path = BASHTE
+  url = https://github.com/Hardwaregore/BASHTE.git
